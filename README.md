@@ -4,7 +4,7 @@ Materia: Aprendizaje Automático
 
 Dictado por el [Dpto. de Computación](https://www.dc.uba.ar/) - [Facultad de Ciencias Exactas y Naturales](https://exactas.uba.ar/) - [Universidad de Buenos Aires](https://uba.ar/)
 
-El material de este repositorio forma parte del curso en su edición 2C de 2024.
+El material de este repositorio forma parte del curso en su edición 1C de 2025.
 
 ## Google Colab
 
